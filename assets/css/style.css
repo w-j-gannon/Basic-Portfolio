@@ -114,6 +114,8 @@ hr {
 .jobs {
     padding: 30px 30px 0px 0px;
     opacity: 1;
+    width: 300px;
+    height: 225px;
     transition: .5s ease;
     backface-visibility: hidden;
 }
